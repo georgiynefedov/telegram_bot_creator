@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b31699a9-7168-42dd-a3e7-26438e238c0d" name="3.126.81.48" url="http://3.126.81.48/telegram_bot_creator">
+        <fileTransfer rootFolder="/home/bitnami/htdocs/telegram_bot_creator" accessType="SFTP" host="3.126.81.48" port="22" sshConfigId="015c3e7d-5333-4fe7-882c-1c7a5c8f6e64" sshConfig="3.126.81.48" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
